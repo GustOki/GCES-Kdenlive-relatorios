@@ -1,0 +1,51 @@
+site_name: GCES Kdenlive Relatórios
+site_url: https://caeslucio.github.io/GCES-Kdenlive-relatorios/
+repo_url: https://github.com/caeslucio/GCES-Kdenlive-relatorios
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.expand
+    - navigation.top
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - scheme: slate
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+
+markdown_extensions:
+  - pymdownx.snippets:
+      base_path: .
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - Geral:
+    - Sprint 0: geral/Sprint0.md
+  - Contribuições individuais:
+    - Caetano Santos Lucio - 180144979: contribuicoes_individuais/CaetanoLucio-180144979/Sprint0.md
+  - Materiais:
+    - Template do Diário de bordo: materiais/template-diario-bordo.md
+    - Template do relatório: materiais/template-relatorio.md
+    - Como abrir um MR: materiais/como-abrir-mr.md
+    - Regras para MRs: materiais/regras-para-mr.md
+
+plugins:
+  - search
+  - tags
