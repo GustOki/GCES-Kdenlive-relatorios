@@ -30,23 +30,30 @@ theme:
     text: "Roboto"
     code: "Roboto Mono"
 
+extra_javascript:
+  - assets/js/open_links_new_tab.js
+
 markdown_extensions:
+  - admonition
   - pymdownx.snippets:
       base_path: .
   - pymdownx.tasklist:
       custom_checkbox: true
 
 nav:
-  - Home: index.md
-  - Geral:
+  - Home: 
+    - Início: index.md
+    - Comece por Aqui:
+      - Como abrir um MR: materiais/como-abrir-mr.md
+      - Regras para MRs: materiais/regras-para-mr.md
+    - Modelos:
+      - Template do Diário de bordo: materiais/template-diario-bordo.md
+      - Template do relatório: materiais/template-relatorio.md
+  - Sprints:
     - Sprint 0: geral/Sprint0.md
   - Contribuições individuais:
-    - Caetano Santos Lucio - 180144979: contribuicoes_individuais/CaetanoLucio-180144979/Sprint0.md
-  - Materiais:
-    - Template do Diário de bordo: materiais/template-diario-bordo.md
-    - Template do relatório: materiais/template-relatorio.md
-    - Como abrir um MR: materiais/como-abrir-mr.md
-    - Regras para MRs: materiais/regras-para-mr.md
+    - Caetano Santos Lucio - 180144979: 
+      - Sprint 0: contribuicoes_individuais/CaetanoLucio-180144979/Sprint0.md
 
 plugins:
   - search
