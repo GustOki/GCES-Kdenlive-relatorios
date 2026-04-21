@@ -1,7 +1,7 @@
 # Gestão da Configuração e Evolução de Software - Kdenlive
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kdenlive-logo.svg/512px-Kdenlive-logo.svg.png" alt="Kdenlive Logo" width="200"/>
+  <img src="assets/kdenlive-logo.svg" alt="Kdenlive Logo" width="200"/>
 </p>
 
 Este repositório reúne a documentação desenvolvida durante a disciplina **Gestão da Configuração e Evolução de Software (GCES)** da Universidade de Brasília (UnB).

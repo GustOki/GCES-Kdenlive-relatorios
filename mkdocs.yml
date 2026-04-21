@@ -3,6 +3,8 @@ site_url: https://caeslucio.github.io/GCES-Kdenlive-relatorios/
 repo_url: https://github.com/caeslucio/GCES-Kdenlive-relatorios
 theme:
   name: material
+  logo: assets/kdenlive-logo.svg
+  favicon: assets/kdenlive-logo.svg
   language: pt-BR
   features:
     - navigation.expand
