@@ -1,7 +1,7 @@
 # Gestão da Configuração e Evolução de Software - Kdenlive
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Kdenlive-logo.svg" alt="Kdenlive Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kdenlive-logo.svg/512px-Kdenlive-logo.svg.png" alt="Kdenlive Logo" width="200"/>
 </p>
 
 Este repositório reúne a documentação desenvolvida durante a disciplina **Gestão da Configuração e Evolução de Software (GCES)** da Universidade de Brasília (UnB).
@@ -20,7 +20,7 @@ O projeto escolhido para contribuição foi o [Kdenlive](https://invent.kde.org/
 ## Estrutura do Repositório
 
 |-- docs/geral/ → Versões dos relatórios de contribuição separados por sprints  
-|-- docs/contribuicoes_individuais/ → Registros das contribuições individuais no Kdenlive, separados por Sprints
+|-- docs/contribuicoes_individuais/ → Registros das contribuições individuais no Kdenlive, separados por Sprints 
 |-- docs/materiais/ → Referências e materiais de apoio usados no projeto
 
 ## Projeto Kdenlive
@@ -32,7 +32,8 @@ Site: [https://kdenlive.org/](https://kdenlive.org/)
 
 ## Equipe
 
---8<-- [start:equipe]
+<!-- --8<-- [start:equipe] -->
+
 | Nome                             | Matrícula | GitHub                                     | KDE Invent                                     |
 | -------------------------------- | --------- | ------------------------------------------ | ---------------------------------------------- |
 | Caetano Santos Lucio             | 180144979 | [@caeslucio](https://github.com/caeslucio) | [@caeslucio](https://invent.kde.org/caeslucio) |
@@ -43,4 +44,5 @@ Site: [https://kdenlive.org/](https://kdenlive.org/)
 | Letícia da Silva Monteiro        | 231026859 | –                                          | –                                              |
 | Lucas Mendonça Arruda            | 231035464 | –                                          | –                                              |
 | Gustavo Oki de Freitas Rodrigues | 231034716 | –                                          | –                                              |
---8<-- [end:equipe]
+
+<!-- --8<-- [end:equipe] -->
