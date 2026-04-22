@@ -42,7 +42,7 @@ Sprint 0 dedicada à fundação da arquitetura de engenharia de software da equi
 | João Pedro Rodrigues             | –                                                                                                     | [Diário de Bordo](../contribuicoes_individuais/exemplo/Sprint0.md)                | Pendente    |
 | Karolina Vieira Barbosa          | –                                                                                                     | [Diário de Bordo](../contribuicoes_individuais/exemplo/Sprint0.md)                | Pendente    |
 | Letícia da Silva Monteiro        | –                                                                                                     | [Diário de Bordo](../contribuicoes_individuais/exemplo/Sprint0.md)                | Pendente    |
-| Lucas Mendonça Arruda            | –                                                                                                     | [Diário de Bordo](../contribuicoes_individuais/exemplo/Sprint0.md)                | Pendente    |
+| Lucas Mendonça Arruda            | Criação da conta Kde, Execução da build do Kdenlive, documentação do fluxo e do guia de contribuição da comunidade do Kdenlive                                                                                                     | [Diário de Bordo](../contribuicoes_individuais/LucasArruda-231035464/Sprint0.md)                | Concluído    |
 | Gustavo Oki de Freitas Rodrigues | –                                                                                                     | [Diário de Bordo](../contribuicoes_individuais/exemplo/Sprint0.md)                | Pendente    |
 
 *(Nota: Substitua os links `/exemplo/Sprint0.md` individuais pela pasta respectiva assim que ela for criada)*
