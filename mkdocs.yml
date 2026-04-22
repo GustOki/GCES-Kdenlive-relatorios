@@ -52,8 +52,14 @@ nav:
   - Sprints:
     - Sprint 0: geral/Sprint0.md
   - Contribuições individuais:
-    - Caetano Santos Lucio - 180144979: 
-      - Sprint 0: contribuicoes_individuais/CaetanoLucio-180144979/Sprint0.md
+    - Caetano Santos Lucio - 180144979: contribuicoes_individuais/CaetanoLucio-180144979/Sprint0.md
+    - Lucas Mendonça Arruda - 231035464: contribuicoes_individuais/LucasArruda-231035464/Sprint0.md
+  - Materiais:
+    - Template do Diário de bordo: materiais/template-diario-bordo.md
+    - Template do relatório: materiais/template-relatorio.md
+    - Como abrir um MR: materiais/como-abrir-mr.md
+    - Regras para MRs: materiais/regras-para-mr.md
+
 
 plugins:
   - search

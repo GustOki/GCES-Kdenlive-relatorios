@@ -43,12 +43,12 @@ Site: [https://kdenlive.org/](https://kdenlive.org/)
 | Nome                             | Matrícula | GitHub                                     | KDE Invent                                     |
 | -------------------------------- | --------- | ------------------------------------------ | ---------------------------------------------- |
 | Caetano Santos Lucio             | 180144979 | [@caeslucio](https://github.com/caeslucio) | [@caeslucio](https://invent.kde.org/caeslucio) |
-| Davi Rodrigues Nunes             | 232014413 | –                                          | –                                              |
+| Davi Rodrigues Nunes             | 232014413 | –                                          | –                                              | 
 | Julia dos Reis Teixeira Massuda  | 231035150 | –                                          | –                                              |
 | João Pedro Rodrigues             | 231026966 | –                                          | –                                              |
 | Karolina Vieira Barbosa          | 202045820 | –                                          | –                                              |
 | Letícia da Silva Monteiro        | 231026859 | –                                          | –                                              |
-| Lucas Mendonça Arruda            | 231035464 | –                                          | –                                              |
+| Lucas Mendonça Arruda            | 231035464 | [@lucasarruda9](https://github.com/lucasarruda9) | [@lucasma](https://invent.kde.org/lucasma)                                              |
 | Gustavo Oki de Freitas Rodrigues | 231034716 | –                                          | –                                              |
 
 <!-- --8<-- [end:equipe] -->
