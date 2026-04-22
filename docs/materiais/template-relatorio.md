@@ -1,4 +1,4 @@
-# 📝 Relatório de Contribuição – Sprint [X]
+# Relatório de Contribuição – Sprint X
 
 **Disciplina:** Gestão de Configuração e Evolução de Software
 **Equipe:** [Nome/Identificação da equipe]
@@ -23,20 +23,20 @@ Breve resumo sobre o foco geral da equipe nesta iteração, os processos conduzi
 
 ## 3. Entregas Coletivas
 
-| Entrega | Status | Link/Referência | Observações |
-| ------- | ------ | --------------- | ----------- |
+| Entrega                      | Status    | Link/Referência      | Observações           |
+| ---------------------------- | --------- | -------------------- | --------------------- |
 | [Documento/Funcionalidade X] | Concluído | [link para MR/issue] | Impacto na comunidade |
-| [Teste/Script Y] | Parcial | [Link] | Faltam integrações |
+| [Teste/Script Y]             | Parcial   | [Link]               | Faltam integrações    |
 
 ---
 
 ## 4. Entregas Individuais
 
-| Integrante | Contribuições | Links (Diário de Bordo) | Observações |
-| ---------- | ------------- | ----------------------- | ----------- |
-| Nome 1 (Matrícula) | Implementou [feature], abriu [X MRs/issues] | [Diário de Bordo](../contribuicoes_individuais/NomeMembro-Matricula/SprintX.md) | Concluído |
-| Nome 2 (Matrícula) | Revisou MRs, documentou [tópico] | [Diário de Bordo](../contribuicoes_individuais/NomeMembro-Matricula/SprintX.md) | Pendente |
-| Nome 3 (Matrícula) | Desenvolveu script de automação | [Diário de Bordo](../contribuicoes_individuais/NomeMembro-Matricula/SprintX.md) | – |
+| Integrante         | Contribuições                               | Links (Diário de Bordo)                                                         | Observações |
+| ------------------ | ------------------------------------------- | ------------------------------------------------------------------------------- | ----------- |
+| Nome 1 (Matrícula) | Implementou [feature], abriu [X MRs/issues] | [Diário de Bordo](../contribuicoes_individuais/NomeMembro-Matricula/SprintX.md) | Concluído   |
+| Nome 2 (Matrícula) | Revisou MRs, documentou [tópico]            | [Diário de Bordo](../contribuicoes_individuais/NomeMembro-Matricula/SprintX.md) | Pendente    |
+| Nome 3 (Matrícula) | Desenvolveu script de automação             | [Diário de Bordo](../contribuicoes_individuais/NomeMembro-Matricula/SprintX.md) | –           |
 
 *(Nota: Lembre-se de substituir os links do diário de bordo pela pasta respectiva de cada integrante apontando para a Sprint atual)*
 
