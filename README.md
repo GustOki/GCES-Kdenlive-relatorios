@@ -49,6 +49,6 @@ Site: [https://kdenlive.org/](https://kdenlive.org/)
 | Karolina Vieira Barbosa          | 202045820 | [@Karolina91](https://github.com/Karolina91)|  [@karovieira](https://invent.kde.org/karovieira)                                          |
 | Letícia da Silva Monteiro        | 231026859 | –                                          | –                                              |
 | Lucas Mendonça Arruda            | 231035464 | [@lucasarruda9](https://github.com/lucasarruda9) | [@lucasma](https://invent.kde.org/lucasma)                                              |
-| Gustavo Oki de Freitas Rodrigues | 231034716 | –                                          | –                                              |
+| Gustavo Oki de Freitas Rodrigues | 231034716 | [@GustOki](https://github.com/GustOki)                                          | [@gustoki](https://invent.kde.org/gustoki)                                              |
 
 <!-- --8<-- [end:equipe] -->
