@@ -46,7 +46,7 @@ Site: [https://kdenlive.org/](https://kdenlive.org/)
 | Davi Rodrigues Nunes             | 232014413 | [@davirnunes](https://github.com/davirnunes)| [@davirnunes](https://invent.kde.org/davirnunes)| 
 | Julia dos Reis Teixeira Massuda  | 231035150 | –                                          | –                                              |
 | João Pedro Rodrigues             | 231026966 | –                                          | –                                              |
-| Karolina Vieira Barbosa          | 202045820 | –                                          | –                                              |
+| Karolina Vieira Barbosa          | 202045820 | [@Karolina91](https://github.com/Karolina91)|  [@karovieira](https://invent.kde.org/karovieira)                                          |
 | Letícia da Silva Monteiro        | 231026859 | –                                          | –                                              |
 | Lucas Mendonça Arruda            | 231035464 | [@lucasarruda9](https://github.com/lucasarruda9) | [@lucasma](https://invent.kde.org/lucasma)                                              |
 | Gustavo Oki de Freitas Rodrigues | 231034716 | –                                          | –                                              |
